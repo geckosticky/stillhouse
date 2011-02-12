@@ -1,0 +1,33 @@
+ul.parent:hover li a {
+  display: block; 
+}
+
+div.logo-site-name a {href="/stillhouse/?q=home";}
+
+li.active-trail > a {text-decoration: line-through;}
+
+li.active-trail.expanded li a {display: block;}
+
+li.expanded li a { display: none;}
+
+li.expanded:hover li a {display: block;}
+
+li > ul.menu > li {
+  font-size: 90%;
+  line-height: 2.0;
+}
+
+#splashpage. {height: 100%; width: 100%;}
+
+.front .node-content {text-align: center; font-size: 200%; margin: 0% auto; padding-top: 300px;}
+
+.front .node-content a {text-decoration:none;}
+
+.front .node-inner {height: 100%; width: 100%;}
+
+.section-contact .node-content {text-align: center; padding-top: 200px;}
+
+.sidebar-left ul li {list-style-type:none;}
+
+#block-menu-primary-links li ul {}
+
